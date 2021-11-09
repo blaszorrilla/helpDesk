@@ -1,7 +1,7 @@
 # Tutorial_HelpDesk
 
 Crea tickets de asistencia técnica
-Módulos: 
+- Módulos: 
 1. Login
  - ![1](https://user-images.githubusercontent.com/37028794/140835373-9fb2c9da-af74-4ddc-a91b-7170219544ca.PNG)
 2. Crear ticket
